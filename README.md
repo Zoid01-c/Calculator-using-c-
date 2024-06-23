@@ -1,6 +1,3 @@
-Certainly! Here's a detailed repository description for a calculator project using C++ within 400 words:
-
----
 
 **C++ Calculator**
 
